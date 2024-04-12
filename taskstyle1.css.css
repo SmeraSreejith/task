@@ -1,0 +1,129 @@
+div{
+    width: 150px;
+    height: 150px;
+
+    margin-top: 100px;
+    margin-left: 400px;
+    
+
+    background-color: rgb(53, 197, 53)
+  }
+    #div1{
+        margin-left: 560px;
+        margin-top: -150px;
+        background-color: brown;
+    }
+    #div2{
+        margin-left: 720px;
+        margin-top: -150px;
+        background-color: lightcoral;
+    }
+    #div3{
+        margin-left: 880px;
+        margin-top: -150px;
+        background-color: rgb(96, 152, 226);
+    }
+    #div4{
+        margin-left: 1040px;
+        margin-top: -150px;
+        background-color: rgb(149, 231, 66);
+    }
+    #div5{
+        margin-left: 240px;
+        margin-top: 30px;
+        background-color: blueviolet;
+       
+    }
+    #div6{
+        margin-left: 400px;
+        margin-top: -150px;
+        background-color: rgb(231, 167, 46);
+        
+    }
+    #div7{
+        margin-left: 560px;
+        margin-top: -150px;
+        background-color: green;
+    }
+    #div8{
+        margin-left: 720px;
+        margin-top: -150px;
+        background-color: rgb(105, 7, 105);
+    }
+    #div9{
+        margin-left: 880px;
+        margin-top: -150px;
+        background-color: red;
+    }
+    #div10{
+        margin-left: 880px;
+        margin-top: -150px;
+        background-color: red;
+    }
+    #div11{
+        margin-left: 1040px;
+        margin-top: -150px;
+        background-color: rgb(71, 64, 114);
+
+    }
+    #div12{
+        margin-left: 1200px;
+        margin-top: -150px;
+        background-color: darkred;
+    }
+    #div13{
+        margin-left: 1360px;
+        margin-top: 30px;
+        background-color: rgb(133, 9, 185);
+    }
+    #div14{
+        margin-left: 1200px;
+        margin-top: -150px;
+        background-color: rgb(11, 11, 77);
+    }
+    #div15{
+        margin-left: 1200px;
+        margin-top: -150px;
+        background-color: rgb(39, 22, 187);
+    }
+    #div16{
+        margin-left: 1040px;
+        margin-top: -150px;
+        background-color: rgb(223, 27, 180);
+    }
+    #div17{
+        margin-left: 880px;
+        margin-top: -150px;
+        background-color: rgb(137, 196, 35);
+    }
+    #div18{
+        margin-left: 720px;
+        margin-top: -150px;
+        background-color: rgb(48, 107, 48);
+    }
+    #div19{
+        margin-left: 720px;
+        margin-top: -150px;
+        background-color: rgb(6, 87, 6);
+    }
+    #div20{
+        margin-left: 560px;
+        margin-top: -150px;
+        background-color: black;
+    }
+    #div21{
+        margin-left: 400px;
+        margin-top: -150px;
+        background-color: rgb(82, 74, 74);
+    }
+    #div22{
+        margin-left: 240px;
+        margin-top: -150px;
+        background-color: rgb(40, 95, 97);
+    }
+    #div23{
+        margin-left: 80px;
+        margin-top: -150px;
+        background-color: rgb(35, 9, 83);
+    }
+
